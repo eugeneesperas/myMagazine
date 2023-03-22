@@ -1,0 +1,2 @@
+# myMagazine
+my magazine
